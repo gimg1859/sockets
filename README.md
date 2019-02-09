@@ -1,2 +1,0 @@
-# sockets
-sockets paralela
